@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on consciousness and sleep data analysis
+- 👯 I’m looking to collaborate on advance highlighting the fluctuating nature of biology
+
 <!--
 **glennvdlande/glennvdlande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
